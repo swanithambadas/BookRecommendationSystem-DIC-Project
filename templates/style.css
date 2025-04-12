@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Roboto:wght@400;500&display=swap');
+
+body {
+    background-color: #343a40; /* Dark background for contrast */
+    color: #f8f9fa; /* Light text color */
+    font-family: 'Roboto', sans-serif; /* Primary font */
+}
+
+.navbar {
+    background-color: #00a65a; /* Green background */
+    border-bottom: 3px solid #ffc107; /* Yellow accent border */
+}
+
+.navbar-brand {
+    color: white;
+    font-family: 'Merriweather', serif; /* Secondary font for branding */
+    font-size: 1.5rem;
+}
+
+.nav li a {
+    color: white;
+    transition: background-color 0.3s ease;
+}
+
+.nav li a:hover {
+    background-color: #008d4c; /* Darker green for hover effect */
+}
+
+.container {
+    padding-top: 20px;
+}
+
+.card {
+    background-color: #424242; /* Slightly lighter background for cards */
+    padding: 15px;
+    border-radius: 5px; /* Rounded corners for card */
+    margin-top: 20px;
+}
+
+.card-body {
+    align-items: center;
+    text-align: center;
+}
+
+.card-img-top {
+    width: 100%; /* Responsive image width */
+    height: auto; /* Maintain aspect ratio */
+    max-height: 200px; /* Limiting image height */
+    padding: 10px; /* Spacing around image */
+}
+
+h1 {
+    font-family: 'Merriweather', serif; /* Consistent font for headings */
+    text-align: center;
+    color: #ffc107; /* Yellow color for main heading */
+}
