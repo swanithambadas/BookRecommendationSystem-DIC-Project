@@ -89,18 +89,17 @@
 
 ## 🛠️ Tech Stack
 
-```markdown 
-| Component            | Technology         |
-| -------------------- | ------------------ |
-| **Language**         | Python 3.8+        |
-| **Web Framework**    | Flask              |
-| **Data Processing**  | pandas, numpy      |
-| **Machine Learning** | scikit-learn (SVD) |
-| **Visualization**    | matplotlib         |
-| **Serialization**    | pickle             |
-| **Templates**        | Jinja2             |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-2.0%2B-green?logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/pandas-1.3%2B-brightgreen?logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-1.21%2B-yellow?logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/scikit--learn-0.24%2B-orange?logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/matplotlib-3.4%2B-purple?logo=matplotlib&logoColor=white" alt="matplotlib"/>
+  <img src="https://img.shields.io/badge/pickle–serialization-lightgrey?logo=python&logoColor=white" alt="pickle"/>
+  <img src="https://img.shields.io/badge/Jinja2-templating-red?logo=jinja&logoColor=white" alt="Jinja2"/>
+</p>
 
-```
 
 ## 🚀 Quick Start
 
