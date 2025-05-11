@@ -92,8 +92,11 @@
 │ • `phase3_merged_URB.csv`  │
 │ • `popular_df_final_100.pkl`│
 └────────────────────────────┘
+```
 
 ## 🛠️ Tech Stack
+
+```text
 | Component            | Technology         |
 | -------------------- | ------------------ |
 | **Language**         | Python 3.8+        |
@@ -103,6 +106,8 @@
 | **Visualization**    | matplotlib         |
 | **Serialization**    | pickle             |
 | **Templates**        | Jinja2             |
+
+```
 
 ## 🚀 Quick Start
 
