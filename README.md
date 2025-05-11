@@ -8,14 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="#features">✨ Features</a> • 
-  <a href="#goals">🎯 Goals</a> • 
-  <a href="#architecture">🏗️ Architecture</a> • 
-  <a href="#tech-stack">🛠️ Tech Stack</a> • 
-  <a href="#contributors">👥 Contributors</a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Flask-2.0%2B-green?logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/scikit--learn-0.24%2B-orange?logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
