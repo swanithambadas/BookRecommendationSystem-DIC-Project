@@ -93,10 +93,11 @@
 │ • `popular_df_final_100.pkl`│
 └────────────────────────────┘
 ```
+---
 
 ## 🛠️ Tech Stack
 
-```text
+```markdown 
 | Component            | Technology         |
 | -------------------- | ------------------ |
 | **Language**         | Python 3.8+        |
@@ -111,6 +112,7 @@
 
 ## 🚀 Quick Start
 
+```bash
 Clone & Navigate
 git clone https://github.com/swanithambadas/BookRecommendationSystem-DIC-Project.git
 cd BookRecommendationSystem-DIC-Project
@@ -126,6 +128,8 @@ pip install flask pandas numpy scipy scikit-learn matplotlib
 Run the App
 python app.py
 
+```
+
 Browse
 Open 👉 http://127.0.0.1:5000/
 
@@ -139,4 +143,4 @@ Contributions welcome!
 Fork the repo, open an issue or PR, and let’s build something great together.
 
 ## 📄 License
-This project is MIT-licensed. See LICENSE for details.
+This project is MIT-licensed. See [LICENSE](./LICENSE) for details.
