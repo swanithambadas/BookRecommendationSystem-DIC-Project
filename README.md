@@ -112,22 +112,28 @@
 
 ## 🚀 Quick Start
 
-```bash
+
 Clone & Navigate
+```bash
 git clone https://github.com/swanithambadas/BookRecommendationSystem-DIC-Project.git
 cd BookRecommendationSystem-DIC-Project
+```
 
 Set Up Virtual Env
+```bash
 python3 -m venv venv
 source venv/bin/activate   # macOS/Linux
 venv\Scripts\activate      # Windows
+```
 
 Install Dependencies
+```bash
 pip install flask pandas numpy scipy scikit-learn matplotlib
+```
 
 Run the App
+```bash
 python app.py
-
 ```
 
 Browse
@@ -135,9 +141,8 @@ Open 👉 http://127.0.0.1:5000/
 
 ## 👥 Contributors
 
-Name: Swanith Ambadas	
-Role: Lead Developer & Data Scientist	
-GitHub: @swanithambadas
+- **Swanith Ambadas** — Lead Developer & Data Scientist ([github.com/swanithambadas](https://github.com/swanithambadas))
+
 
 Contributions welcome!
 Fork the repo, open an issue or PR, and let’s build something great together.
