@@ -128,3 +128,15 @@ python app.py
 
 Browse
 Open 👉 http://127.0.0.1:5000/
+
+## 👥 Contributors
+
+Name: Swanith Ambadas	
+Role: Lead Developer & Data Scientist	
+GitHub: @swanithambadas
+
+Contributions welcome!
+Fork the repo, open an issue or PR, and let’s build something great together.
+
+## 📄 License
+This project is MIT-licensed. See LICENSE for details.
