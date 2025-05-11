@@ -2,7 +2,7 @@
   <img src="assets/demo.gif" alt="Book Recommendation System Demo" width="80%"/>
 </p>
 
-<h1 align="center">📚 BookRecommendationSystem-DIC-Project</h1>
+<h1 align="center">📚 NextChapter - Book Recommendation System</h1>
 <p align="center">
   <strong>Your go-to Flask app for both trending and personalized book recommendations!</strong>
 </p>
@@ -92,3 +92,34 @@
 │ • `phase3_merged_URB.csv`  │
 │ • `popular_df_final_100.pkl`│
 └────────────────────────────┘
+
+## 🛠️ Tech Stack
+| Component            | Technology         |
+| -------------------- | ------------------ |
+| **Language**         | Python 3.8+        |
+| **Web Framework**    | Flask              |
+| **Data Processing**  | pandas, numpy      |
+| **Machine Learning** | scikit-learn (SVD) |
+| **Visualization**    | matplotlib         |
+| **Serialization**    | pickle             |
+| **Templates**        | Jinja2             |
+
+## 🚀 Quick Start
+
+Clone & Navigate
+git clone https://github.com/swanithambadas/BookRecommendationSystem-DIC-Project.git
+cd BookRecommendationSystem-DIC-Project
+
+Set Up Virtual Env
+python3 -m venv venv
+source venv/bin/activate   # macOS/Linux
+venv\Scripts\activate      # Windows
+
+Install Dependencies
+pip install flask pandas numpy scipy scikit-learn matplotlib
+
+Run the App
+python app.py
+
+Browse
+Open 👉 http://127.0.0.1:5000/
